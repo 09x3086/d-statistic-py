@@ -1,16 +1,15 @@
 # -*- coding:utf-8 -*-
 """
-平均値.
+平方和.
 """
 __author__ = "09x3086"
 
 import sympy as sympy
 
 
-# Averageクラスを定義
-class ProbabilityGeneratingFunction:
+class SumOfSquares:
 
-    # コンストラクタを定義
+    # コンストラクタ
     def __init__(self, name, year):
         # メンバ
         self.name = name

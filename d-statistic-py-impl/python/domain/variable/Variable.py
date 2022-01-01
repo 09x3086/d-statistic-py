@@ -1,16 +1,15 @@
 # -*- coding:utf-8 -*-
 """
-平均値.
+変数.
 """
 __author__ = "09x3086"
 
 import sympy as sympy
 
 
-# Averageクラスを定義
-class ProbabilityGeneratingFunction:
+class Variable:
 
-    # コンストラクタを定義
+    # コンストラクタ
     def __init__(self, name, year):
         # メンバ
         self.name = name
