@@ -4,8 +4,6 @@
 """
 __author__ = "09x3086"
 
-import sympy as sympy
-
 
 class Variable:
 
