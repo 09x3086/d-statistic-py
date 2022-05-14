@@ -18,3 +18,5 @@ c: float = float(input())
 answer = (1 / a) * (b * c)
 
 print(answer)
+
+

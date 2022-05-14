@@ -1,4 +1,6 @@
 # d-statistic-py
+## 確率分布(ProbabilityDistribution)
+- 正規分布(NormalDistribution)
 - 変数(Variable)
 - 一元配置分散分析(one-way analysis of variance)
 - 6.1 正規性の検討
