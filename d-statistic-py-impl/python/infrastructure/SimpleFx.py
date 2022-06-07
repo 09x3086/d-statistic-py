@@ -4,7 +4,7 @@ import requests
 import pprint
 from scipy.stats import norm
 
-headers = {'Authorization': 'Bearer {}'.format('6f0cc851-a033-4fd4-ac0a-1638ff78c2a1')}
+headers = {'Authorization': 'Bearer {}'.format('XXX')}
 X = list()
 for i in range(1):
     r_get = requests.get('https://simplefx.com/utils/instruments.json', headers=headers)
