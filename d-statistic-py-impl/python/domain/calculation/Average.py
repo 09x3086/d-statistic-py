@@ -4,7 +4,7 @@ import numpy
 """
 平均値.
 """
-__author__ = "09x3086"
+__author__ = "nyo"
 
 
 # Averageクラスを定義
